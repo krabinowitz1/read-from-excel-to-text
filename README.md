@@ -10,3 +10,5 @@ address had to be separaated by a comma. Rather than manually inserting the comm
 the email addresses from the excel file, creates a new text file and writes the email addresses into it, each followed by
 a comma. Using this script, I can easily copy and paste the list from the text file to JibJab in the format needed for
 it to send the e-cards to all of our recipients.
+
+The emails and names in candidates.xlsx are fake and for demonstration only.
